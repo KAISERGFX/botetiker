@@ -19,7 +19,7 @@
     "express": "^4.18.2",
     
     "puppeteer": "^19.6.3"
-    "@open-wa/wa-automate": "^4.23.6",
+    "@open-wa/wa-automate": "^4.55.2",
     
     }
   
