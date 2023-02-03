@@ -1,7 +1,7 @@
 {
-  "name": "nodejs",
+  "name": "sticker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Stickers",
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/puppeteer/install.js && node index.js",
