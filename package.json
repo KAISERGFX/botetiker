@@ -7,7 +7,7 @@
     "start": "node ./node_modules/puppeteer/install.js && node index.js",
     "test": "test"
     
-    },
+    
     
  
 "keywords": [],
@@ -20,6 +20,7 @@
     "puppeteer": "^19.6.3",
     "@open-wa/wa-automate": "^4.23.6",
     
+    },
   
   
 
