@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
+  "scripts": 
     "start": "node ./node_modules/puppeteer/install.js && node index.js",
     "test": "test"
-  },
+ 
   "keywords": [],
   "author": "",
   "license": "ISC",
