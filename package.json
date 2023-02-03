@@ -15,13 +15,11 @@
   "author":"Rey",
   "license": "ISC",
   "dependencies": {
+  "express": "^4.18.2",
+  "puppeteer": "^19.6.3"
+  "@open-wa/wa-automate": "^4.55.2",
     
-    "express": "^4.18.2",
-    
-    "puppeteer": "^19.6.3"
-    "@open-wa/wa-automate": "^4.55.2",
-    
-    }
+      }
   
   }
   
